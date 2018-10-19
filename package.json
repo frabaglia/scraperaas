@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/frabaglia/scraperaas/issues"
   },
-  "homepage": "https://github.com/frabaglia/scraperaas#readme"
+  "homepage": "https://github.com/frabaglia/scraperaas#readme",
+  "dependencies": {
+    "x-ray": "^2.3.3"
+  }
 }
